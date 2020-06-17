@@ -5,7 +5,7 @@ import {
     Request,
     Response,
     NextFunction,
-} from "./dep.ts";
+} from "./deps.ts";
 
 import App from "./app.tsx";
 

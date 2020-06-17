@@ -8,3 +8,4 @@ export {
   Response,
   NextFunction,
 } from 'https://deno.land/x/opine@0.4.0/src/types.ts';
+export { serve } from 'https://deno.land/std@0.50.0/http/server.ts';
